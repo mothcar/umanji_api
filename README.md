@@ -15,3 +15,4 @@ Create a model in your app
 ```
 yo sails-rest-api:model Channel
 ```
+# umanji_api
